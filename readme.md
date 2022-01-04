@@ -19,3 +19,6 @@
 * com base na BasePage utiliza outra classe para Herdar e gerar comportamentos específicos de um site
 * evidences/images são as images geradas pelo metodo generateShot
 
+### FIXTURES
+
+* massa de dados em dicionário para utilizar, senhas, url, etc.
